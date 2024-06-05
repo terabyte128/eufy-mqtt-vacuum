@@ -1,0 +1,5 @@
+httpx
+pydantic
+paho-mqtt
+protobuf
+betterproto[compiler]@git+https://github.com/danielgtaylor/python-betterproto@master
